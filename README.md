@@ -403,9 +403,9 @@ The dashboard contains **8 interactive pages**:
 
 If you found this project useful or have feedback, feel free to connect:
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Portfolio:** [Your Portfolio URL]
-- **Email:** [Your Email]
+- **LinkedIn:** https://www.linkedin.com/in/siddharthkeshwani/
+- **Portfolio:** https://github.com/Siddharthkeshwani
+- **Email:** siddharthkeshwani10@gmail.com/sidkeshwani16@gmail.com
 
 ---
 
